@@ -1,9 +1,8 @@
 package Autosuggetion;
 
-public class aa2 
+public class aa3 
 {
 public static void main(String[] args) {
-	 System.out.println("Seema are you there");
-	 
+	 System.out.println("krish");
 }
 }
